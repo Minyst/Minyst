@@ -1,5 +1,3 @@
-<img height=400 width=500 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
-
 <h2 align="left">📚Tech Stack📚</h2> <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="30"/>
@@ -20,11 +18,20 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
-<img height=400 width=350 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
-
-![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=minyst&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+---
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&radical">
+</p>
 
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_minyst/count.svg" />
 </p>
+
+![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)
+
+

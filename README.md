@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" width="120" height="30"/>
   <img src="https://img.shields.io/badge/google_colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="googlecolab" width="120" height="30"/>
@@ -23,8 +23,8 @@
 </p>
 ---
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical"/>
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">

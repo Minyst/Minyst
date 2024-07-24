@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<p align="center">
+<p align="left">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical"><br>
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>

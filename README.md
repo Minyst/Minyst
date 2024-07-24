@@ -1,6 +1,7 @@
-<a href="#">
-   <img width=380 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical&card_width=150"/><a href="#"><img width=380 height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150"/>
-   </a><br>
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical&card_width=150" width="100" height="100" alt="Image 1"/>
+  <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical" alt="Image 2"/>
+</div>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

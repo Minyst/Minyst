@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <img height=500 width=500 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/><br>
-  <img height=280 width=400 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
+  <img height=600 width=00 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/><br>
+  <img height=300 width=300 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
 </p>
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)

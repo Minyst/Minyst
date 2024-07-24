@@ -1,12 +1,12 @@
-<p>
+<div>
    <span><img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/></span>
    <span><img width=400 height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/></span>
-</p><br>
+</div><br>
 
-<p>
-<span><img width=400 height=150 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/></span>
-<span><img width=400 height=150 align="center" src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/></span>
-</p><br>
+<div>
+   <span><img width=400 height=150 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/></span>
+   <span><img width=400 height=150 align="center" src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/></span>
+</div><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

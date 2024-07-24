@@ -18,17 +18,17 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
-<div style="text-align: left;">
-  <div style="display: inline-block; vertical-align: top;">
+ <p align="center">
     <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
-  </div>
-  <div style="display: inline-block; vertical-align: top;">
+</p>
+
+<p align="center">
     <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical">
-  </div>
-  <div style="display: inline-block; vertical-align: top;">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
-  </div>
-</div>
+</p>
+
+<p align="center">
+    <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+</p>
 
 <p align="center">
   Visitor count<br>

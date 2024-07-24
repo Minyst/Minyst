@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
-<p align="left">
-  <img height=600 width=00 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/><br>
-  <img height=300 width=300 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
-</p>
+
+<img height=600 width=00 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
+<img height=300 width=300 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
+
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)
 

@@ -1,11 +1,11 @@
 <p>
    <img width=400 height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
     <img width=400 height="200" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
-</p>
+</p><br>
 
 <p>
-<img align="left" height=200 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
-<img align="left" height=200 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<img align="left" height=200 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/>
+<img align="left" height=200 src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
@@ -30,5 +30,5 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.me/_minyst/count.svg" />
 </p>

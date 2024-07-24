@@ -1,5 +1,3 @@
-<img height=600 width=600 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
-  
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="30"/>
@@ -19,8 +17,9 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
-<p align="center">
-  <img height=280 width=300 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=100"/>
+<p align="left">
+  <img height=500 width=500 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
+  <img height=280 width=300 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
 </p>
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)

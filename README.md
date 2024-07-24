@@ -21,7 +21,7 @@
 
 
 
-<img height=450 width=450 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
+<img height=350 width=350 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)
 

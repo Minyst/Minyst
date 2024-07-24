@@ -1,22 +1,7 @@
-<style>
-  .image-container {
-    display: flex; /* Flexbox를 활성화합니다. */
-  }
-
-  .image-container img {
-    height: auto; /* 이미지 높이 자동 조절 */
-    max-width: 100%; /* 이미지 너비 최대 100% */
-  }
-
-  .image-container img:first-child { /* 첫 번째 이미지 */
-    flex: 1; /* 첫 번째 이미지 너비 확장 */
-  }
-</style>
-
-<div class="image-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical" alt="Image 1" width="400"/>
-  <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical" alt="Image 2" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical" alt="Image 1" style="width: 60%; height: auto; display: inline-block;"/>
+  <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical" alt="Image 2" style="width: 40%; height: auto; display: inline-block;"/>
+</p>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

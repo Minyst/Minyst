@@ -4,8 +4,8 @@
 </p><br>
 
 <p>
-<img width=400 height=150 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/>
-<img width=400 height=150 align="center" src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<span><img width=400 height=150 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/></span>
+<span><img width=400 height=150 align="center" src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/></span>
 </p><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>

@@ -1,4 +1,4 @@
-<img height=500 width=500 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
+<img height=00 width=400 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
 
 <h2 align="left">📚Tech Stack📚</h2> <br>
 <p align="left">
@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
-
-
 
 <img height=350 width=350 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
 

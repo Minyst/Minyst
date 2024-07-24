@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img height=280 width=400 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=100"/>
+  <img height=280 width=300 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=100"/>
 </p>
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)

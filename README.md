@@ -1,4 +1,4 @@
-<img height=600 width=600 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical&card_width=600"/>
+<img height=600 width=600 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical/>
   
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

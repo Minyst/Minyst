@@ -33,6 +33,5 @@
 </p>
 
 <p align="center">
-  ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)
+  <img width=1000 src=https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg>
 </p>
-

@@ -3,6 +3,11 @@
     <img width=400 height="200" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
 </p>
 
+<p>
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+</p>
+
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="30"/>
@@ -22,3 +27,8 @@
 </p>
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>

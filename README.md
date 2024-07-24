@@ -1,7 +1,7 @@
 <img height=500 width=500 src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/>
 
-<h2 align="center">📚Tech Stack📚</h2> <br>
-<p align="center">
+<h2 align="left">📚Tech Stack📚</h2> <br>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" width="120" height="30"/>
@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" width="120" height="30"/>
 </p>
 
-<h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
-<p align="center">
+<h2 align="left">🛠️ Stack Tools🛠️ </h2> <br>
+<p align="left">
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" width="120" height="30"/>
   <img src="https://img.shields.io/badge/google_colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="googlecolab" width="120" height="30"/>

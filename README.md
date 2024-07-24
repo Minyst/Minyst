@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white" alt="Tensorflow" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" width="120" height="30"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" width="120" height="30"/>
-  <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
@@ -25,6 +24,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" width="120" height="30"/>
   <img src="https://img.shields.io/badge/google_colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="googlecolab" width="120" height="30"/>
+  <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p>
 
 ![snake gif](https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg)

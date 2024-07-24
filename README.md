@@ -1,9 +1,9 @@
 <div>
-   <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/><img width=400 height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
+   <img width=380 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical"/><img width=380 height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Minyst&hide=html,scss,css&langs_count=8&layout=compact&theme=radical"/>
 </div><br>
 
 <div>
-   <img width=400 height=150 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/><img width=400 height=150 align="center"            src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+   <img width=380 height=150 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=minyst&theme=radical"/><img width=380 height=150 align="center"            src="https://github-profile-trophy.vercel.app/?username=minyst&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </div><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>

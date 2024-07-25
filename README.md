@@ -32,11 +32,9 @@
     <img width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
-
-<a href="mailto:﻿"eddyjr37584@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="120" height="30"/>
+<a href="mailto:eddyjr37584@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="120" height="30" style="float: left;"/>
 </a>
-
 
 <p align="center">
   Visitor count<br>

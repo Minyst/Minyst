@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MINJUN</h1>
 
 <p align="left">
-  🌱 I’m currently learning **ML & DL**
+  🌱 I’m currently learning **ML & DL**<br>
   👨‍💻 All of my projects are available at **https://github.com/Minyst
 </p>
 

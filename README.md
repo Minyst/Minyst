@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p><br><br>
 
----
-
  <p align="left">
     <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -34,17 +32,13 @@
     <img width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
----
-
 <h2 align="center">Contact</h2> <br>
 <p align='center'>
 <a href="mailto:knitum619@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="120" height="30"/>
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="120" height="30"/>
+  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="120" height="25"/>
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="120" height="25"/>
 </a>
 </p>
-
----
 
 <p align="center">
   <img width=1000 src=https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg>

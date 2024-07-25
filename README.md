@@ -33,7 +33,7 @@
 </p>
 
 <p align='left'>
-  <a href="mailto:﻿eddyjr37584@gmail.com">
+  <a href="mailto:﻿"eddyjr37584@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="120" height="30"/>
   </a>
 </p><br>

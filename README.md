@@ -41,10 +41,10 @@
 </p>
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_minyst/count.svg"/>
+  <img width=1000 src=https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg>
 </p>
 
 <p align="center">
-  <img width=1000 src=https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_minyst/count.svg"/>
 </p>

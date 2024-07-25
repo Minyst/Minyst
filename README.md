@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white" alt="Tensorflow" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" width="120" height="30"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" width="120" height="30"/>
-</p>
+</p><br>
 
 <h2 align="center">🛠️ Stack Tools🛠️ </h2> <br>
 <p align="center">

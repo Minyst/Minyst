@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MINJUN</h1>
+<h1 align="center">Hi 👋, I'm MINJUN</h1><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

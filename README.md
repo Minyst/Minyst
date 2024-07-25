@@ -37,12 +37,10 @@
   <a href="mailto:knitum619@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/>
   </a>
-    <a href="https://github.com/Minyst">
+  <a href="https://github.com/Minyst">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="100" height="30"/>
   </a>
 </p> 
-
-</p>
 
 <p align="center">
   <img width=1000 src=https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg>

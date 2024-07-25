@@ -35,10 +35,10 @@
 <h2 align="center">📞Contact📞</h2> <br>
 <p align='center'>
   <a href="mailto:knitum619@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="125" height="25"/>
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/>
   </a>
     <a href="https://github.com/Minyst">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="125" height="25"/>
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="100" height="30"/>
   </a>
 </p> 
 

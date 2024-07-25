@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm MINJUN</h1>
+- 🌱 I’m currently learning **ML & DL**
+- 👨‍💻 All of my projects are available at **https://github.com/Minyst
+
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="30"/>

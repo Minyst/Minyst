@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/google_colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="googlecolab" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
-</p><br>
+</p><br><br>
 
  <p align="left">
     <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">

@@ -32,6 +32,8 @@
     <img width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
+<img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="left"/>
+
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_minyst/count.svg"/>

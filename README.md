@@ -3,8 +3,8 @@
 <div align="center">
   <h1>
     <span style="font-size: 50px; font-weight: bold;">all about</span>
-    <span style="font-size: 70px; font-weight: bold;"> DATA SCIENCE</span>
-    <span style="font-size: 70px; color: #181717; font-weight: bold;">.</span>
+    <span style="font-size: 100px; font-weight: bold;"> DATA SCIENCE</span>
+    <span style="font-size: 100px; color: 181717; font-weight: bold;">.</span>
   </h1>
 </div>
 

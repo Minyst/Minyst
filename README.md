@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300">
 
 <div align="center">
-    <span style="font-size: 100%; font-weight: bold;">all about</span>
-    <span style="font-size: 200%; font-weight: bold;"> DATA SCIENCE</span>
-    <span style="font-size: 200%; color: 181717; font-weight: bold;">.</span>
+    <font size=5>all about</font>
+    <font size=6>DATA SCIENCE</font>
+    <font size=5>.</font>
 </div>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>

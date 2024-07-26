@@ -1,5 +1,5 @@
+<img src=https://capsule-render.vercel.app/api?type=waving&height=300>
 <p align="center"?
-   <img src=https://capsule-render.vercel.app/api?type=venom&height=300>
    <h1>
       <span style="font-size: 12px; font-weight: bold;">all about</span>
       <span style="font-size: 16px; font-weight: bold;"> DATA SCIENCE</span>

@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Minyst/Minyst/blob/main/assets/title.png" height=400 width=800>
-</p>
+</p><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

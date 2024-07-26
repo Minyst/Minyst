@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300">
 
-<div align="center">
-    <font size=5>all about</font>
-    <font size=6>DATA SCIENCE</font>
-    <font size=5>.</font>
-</div>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

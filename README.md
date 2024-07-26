@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=all about DATA SCIENCE.%20render&fontSize=90" />
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=all about DATA SCIENCE.%20render&fontSize=90" /><br>
+</p>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

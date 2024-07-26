@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Minyst/Minyst/blob/main/assets/title.png">
+</p>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

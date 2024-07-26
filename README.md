@@ -1,9 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300">
 
 <div align="center">
-  <span style="font-size: 50px; font-weight: bold;">all about</span>
-  <span style="font-size: 70px; font-weight: bold;"> DATA SCIENCE</span>
-  <span style="font-size: 70px; color: #181717; font-weight: bold;">.</span>
+  <h1>
+    <span style="font-size: 50px; font-weight: bold;">all about</span>
+    <span style="font-size: 70px; font-weight: bold;"> DATA SCIENCE</span>
+    <span style="font-size: 70px; color: #181717; font-weight: bold;">.</span>
+  </h1>
 </div>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>

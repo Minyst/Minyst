@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=all about DATA SCIENCE.%20render&fontSize=90"/>
+  <img src=https://capsule-render.vercel.app/api?type=venom&height=300&text=all%20about%20DATA%20SCIENCE.&textBg=false&fontColor=181717>
 </p>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>

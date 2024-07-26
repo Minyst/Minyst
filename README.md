@@ -1,10 +1,5 @@
-<div style="position: relative; width: 100%; height: 300px; background: url('https://capsule-render.vercel.app/api?type=venom&height=300') no-repeat center center; background-size: cover;">
-    <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); margin: 0; color: #181717; font-size: 24px;">
-        <span style="font-size: 12px;">all about</span>
-        <span style="font-size: 24px;"> DATA SCIENCE</span>
-        <span style="color: #181717;">.</span>
-    </p>
-</div>
+![Background](https://capsule-render.vercel.app/api?type=venom&height=300)
+<span style="font-size: 12px;">all about</span><span style="font-size: 16px;"> DATA SCIENCE</span><span style="color: #181717;">.</span>
     
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">

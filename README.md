@@ -1,9 +1,9 @@
 <img src=https://capsule-render.vercel.app/api?type=waving&height=300>
 <p align="center"?
    <h1>
-      <span style="font-size: 12px; font-weight: bold;">all about</span>
-      <span style="font-size: 16px; font-weight: bold;"> DATA SCIENCE</span>
-      <span style="color: #181717; font-weight: bold;">.</span>
+      <span style="font-size: 50px; font-weight: bold;">all about</span>
+      <span style="font-size: 70px; font-weight: bold;"> DATA SCIENCE</span>
+      <span style="font-size: 70px; color: 181717; font-weight: bold;">.</span>
    </h1>
 </p> 
 

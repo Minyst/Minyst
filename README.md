@@ -1,6 +1,7 @@
+
 ![Background](https://capsule-render.vercel.app/api?type=venom&height=300)
-<span style="font-size: 12px;">all about</span><span style="font-size: 16px;"> DATA SCIENCE</span><span style="color: #181717;">.</span>
-    
+<title style="font-size: 12px; font-weight: bold;">all about</title><title style="font-size: 16px; font-weight: bold;"> DATA SCIENCE</title><title style="color: #181717; font-weight: bold;">.</title>
+   
 <h2 align="center">📚Tech Stack📚</h2> <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="120" height="30"/>

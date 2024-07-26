@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300">
 
 <div align="center">
   <span style="font-size: 50px; font-weight: bold;">all about</span>

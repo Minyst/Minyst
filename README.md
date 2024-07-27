@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/google_colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="googlecolab" width="120" height="30"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
-</p><br><br>
+</p><br>
 
  <p align="left">
     <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
@@ -28,10 +28,10 @@
 
 <p align="left">
     <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical&card_width=500">
-</p><br>
+</p>
 
 <p align="left">
-    <img width="480" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical&card_width=450">
+    <img width="480" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical&card_width=480">
 </p><br>
 
 <h2 align="center">📞Contact📞</h2> <br>

@@ -23,7 +23,7 @@
 </p><br>
 
  <p align="left">
-    <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=900">
+    <img width="900" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=900">
 </p><br>
 
 <p align="left">

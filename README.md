@@ -23,11 +23,11 @@
 </p><br>
 
  <p align="left">
-    <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
+    <img width="800" height="190" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
 </p><br>
 
 <p align="left">
-    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical&card_width=500">
+    <img width="500" height="220" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical&card_width=500">
 </p>
 
 <p align="left">

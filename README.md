@@ -24,7 +24,7 @@
 
  <p align="left">
     <img width="800" height="200" src="https://streak-stats.demolab.com?user=minyst&theme=radical&hide_border=true&border_radius=5&card_width=800">
-</p>
+</p><br>
 
 <p align="left">
     <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical">

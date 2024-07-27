@@ -27,11 +27,11 @@
 </p><br>
 
 <p align="left">
-    <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical&card_width=500">
+    <img width="500" height="250" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical&card_width=500">
 </p>
 
 <p align="left">
-    <img width="480" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical&card_width=480">
+    <img width="500" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical&card_width=500">
 </p><br>
 
 <h2 align="center">📞Contact📞</h2> <br>

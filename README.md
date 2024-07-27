@@ -32,7 +32,7 @@
 
 <p align="left">
     <img width="450" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyst&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical&card_width=400">
-</p>
+</p><br>
 
 <h2 align="center">📞Contact📞</h2> <br>
 <p align='center'>

@@ -27,7 +27,7 @@
 </p><br>
 
 <p align="left">
-    <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radicalcard_width=500">
+    <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=minyst&show_icons=true&theme=radical&card_width=500">
 </p><br>
 
 <p align="left">

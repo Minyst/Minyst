@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Minyst/Minyst/blob/main/assets/title_image.png" height=400 width=800>
+  <img src="https://github.com/Minyst/Minyst/blob/main/assets/title_image.png" height=400 width=500>
 </p><br>
 
 <h2 align="center">📚Tech Stack📚</h2> <br>

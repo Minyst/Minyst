@@ -34,8 +34,6 @@
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyst&layout=compact&theme=radical&card_width=500">
 </p><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minyst&layout=compact&theme=radical)
-
 <h2 align="center">📞Contact📞</h2> <br>
 <p align='center'>
   <a href="mailto:knitum619@gmail.com">

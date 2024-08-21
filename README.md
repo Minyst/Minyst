@@ -44,7 +44,9 @@
   </a>
 </p> 
 
-
+<p align="center">
+  <img width=1000 src=https://github.com/Minyst/Minyst/blob/output/github-contribution-grid-snake.svg>
+</p>
 
 <p align="center">
   Visitor Count<br>

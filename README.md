@@ -42,7 +42,7 @@
   <a href="https://github.com/Minyst">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="100" height="30"/>
   </a>
-</p><br>
+</p><br><br><br>
 
 <p align="center">
   Visitor Count<br>

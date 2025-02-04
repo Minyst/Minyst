@@ -22,10 +22,6 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p><br>
 
- <p align="left">
-    <img width="900" height="200" src="https://streak-stats.demolab.com?user=Minyst&theme=radical&hide_border=true&border_radius=5&card_width=900">
-</p><br>
-
 <p align="left">
     <img width="500" height="220" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical&card_width=500">
 </p>

@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/badge/tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" width="120" height="30"/>
 </p><br>
 
-<p align="left">
+<p align="center">
     <img width="500" height="220" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical&card_width=500">
 </p>
 
-<p align="left">
+<p align="center">
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyst&layout=compact&theme=radical&card_width=500">
 </p><br>
 

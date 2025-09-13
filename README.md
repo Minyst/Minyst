@@ -22,10 +22,6 @@
 </p><br>
 
 <p align="center">
-    <img width="500" height="220" src="https://github-readme-stats.vercel.app/api?username=Minyst&show_icons=true&theme=radical&card_width=500">
-</p>
-
-<p align="center">
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minyst&layout=compact&theme=radical&card_width=500">
 </p><br>
 

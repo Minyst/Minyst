@@ -38,8 +38,3 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" width="100" height="30"/>
   </a>
 </p><br>
-
-<p align="center">
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Minyst/count.svg"/>
-</p>
